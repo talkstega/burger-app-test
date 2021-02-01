@@ -4,7 +4,7 @@ import Auxilliary from '../../../hoc/Auxilliary/Auxilliary';
 import Button from '../../UI/Button/Button'
 
 class OrderSummary extends Component {
-    //This can be a functional component, doesn't have tp be a class
+    //This can be a functional component, doesn't have to be a class
 
     componentWillUpdate(){
         console.log('[OrderSummary] WillUpdate');
